@@ -1,2 +1,1 @@
-# GitHubTest
-The test to use GitHub
+测试
